@@ -1,0 +1,385 @@
+Sahil Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:10:57'}
+Sahil Goyal: {'crossing': 'EXIT', 'gate': '3', 'time': '10:15:45'}
+Sahil Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:21:36'}
+Sahil Goyal: {'crossing': 'EXIT', 'gate': '3', 'time': '10:33:57'}
+Sahil Goyal: {'crossing': 'ENTER', 'gate': '3', 'time': '10:46:02'}
+Sahil Goyal: {'crossing': 'EXIT', 'gate': '5', 'time': '10:51:38'}
+Sahil Goyal: {'crossing': 'ENTER', 'gate': '3', 'time': '10:54:16'}
+Sahil Goyal: {'crossing': 'EXIT', 'gate': '5', 'time': '10:56:19'}
+Sahil Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:59:54'}
+Sahil Goyal: {'crossing': 'EXIT', 'gate': '5', 'time': '11:10:03'}
+Bhavya Jain: {'crossing': 'ENTER', 'gate': '5', 'time': '10:17:17'}
+Bhavya Jain: {'crossing': 'EXIT', 'gate': '1', 'time': '10:19:32'}
+Bhavya Jain: {'crossing': 'ENTER', 'gate': '5', 'time': '10:28:27'}
+Bhavya Jain: {'crossing': 'EXIT', 'gate': '5', 'time': '10:38:49'}
+Bhavya Jain: {'crossing': 'ENTER', 'gate': '3', 'time': '10:51:15'}
+Bhavya Jain: {'crossing': 'EXIT', 'gate': '5', 'time': '10:55:53'}
+Bhavya Jain: {'crossing': 'ENTER', 'gate': '1', 'time': '11:03:34'}
+Bhavya Jain: {'crossing': 'EXIT', 'gate': '5', 'time': '11:08:13'}
+Thanmayee Matha: {'crossing': 'ENTER', 'gate': '1', 'time': '10:27:58'}
+Thanmayee Matha: {'crossing': 'EXIT', 'gate': '1', 'time': '10:39:53'}
+Thanmayee Matha: {'crossing': 'ENTER', 'gate': '1', 'time': '10:44:34'}
+Thanmayee Matha: {'crossing': 'EXIT', 'gate': '3', 'time': '10:47:05'}
+Thanmayee Matha: {'crossing': 'ENTER', 'gate': '3', 'time': '10:52:01'}
+Thanmayee Matha: {'crossing': 'EXIT', 'gate': '3', 'time': '11:02:29'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:10:25'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:11:12'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:12:25'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:12:38'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:13:57'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:14:30'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:15:08'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:15:42'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:16:02'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:16:12'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:16:15'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:17:30'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:18:26'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:18:34'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:18:57'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:20:37'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:20:47'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:21:13'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:21:39'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:22:08'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:22:09'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:22:44'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:23:16'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:23:24'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:23:30'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:24:17'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:25:24'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:26:28'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:26:43'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:26:50'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:26:51'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:27:31'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:27:35'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:28:07'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:28:16'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:29:25'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:29:55'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:29:56'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:30:37'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:30:39'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:31:24'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:32:19'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:35:04'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:35:31'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:36:02'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:36:39'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:36:39'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:37:28'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:37:29'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:37:42'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:37:53'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:38:10'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:38:14'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:38:16'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:38:36'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:39:11'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:39:33'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:39:37'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:39:57'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:40:17'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:41:36'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:42:11'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:42:16'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:42:55'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:43:46'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:44:01'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:44:17'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:44:29'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:45:36'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:46:20'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:47:55'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:48:05'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:48:08'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:48:34'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:48:49'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:50:15'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:51:02'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:51:19'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:51:20'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:52:14'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:52:18'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:52:24'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:52:52'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:53:00'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '10:53:04'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:53:33'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:53:35'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '10:54:34'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '10:54:57'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '10:56:27'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:57:13'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '10:57:46'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '10:58:23'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '11:00:08'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '11:00:29'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '11:01:18'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '11:03:05'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '11:03:09'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '11:03:56'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '11:04:20'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '11:06:54'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '11:07:06'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '11:08:13'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '11:09:03'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '5', 'time': '11:09:06'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '5', 'time': '11:09:25'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '11:09:50'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '3', 'time': '11:10:13'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '1', 'time': '11:10:55'}
+Khushdev Pandit: {'crossing': 'ENTER', 'gate': '1', 'time': '11:11:02'}
+Khushdev Pandit: {'crossing': 'EXIT', 'gate': '3', 'time': '11:11:06'}
+Rohan Dhar: {'crossing': 'ENTER', 'gate': '5', 'time': '10:11:22'}
+Rohan Dhar: {'crossing': 'EXIT', 'gate': '1', 'time': '10:30:05'}
+Rohan Dhar: {'crossing': 'ENTER', 'gate': '3', 'time': '10:39:24'}
+Rohan Dhar: {'crossing': 'EXIT', 'gate': '3', 'time': '10:48:33'}
+Rohan Dhar: {'crossing': 'ENTER', 'gate': '1', 'time': '11:00:52'}
+Rohan Dhar: {'crossing': 'EXIT', 'gate': '3', 'time': '11:03:25'}
+Rohan Dhar: {'crossing': 'ENTER', 'gate': '5', 'time': '11:10:30'}
+Bharat Goyal: {'crossing': 'EXIT', 'gate': '5', 'time': '10:14:52'}
+Bharat Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:24:11'}
+Bharat Goyal: {'crossing': 'EXIT', 'gate': '1', 'time': '10:26:45'}
+Bharat Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:27:02'}
+Bharat Goyal: {'crossing': 'EXIT', 'gate': '1', 'time': '10:38:36'}
+Bharat Goyal: {'crossing': 'ENTER', 'gate': '3', 'time': '10:50:56'}
+Bharat Goyal: {'crossing': 'EXIT', 'gate': '3', 'time': '10:58:22'}
+Bharat Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '11:00:57'}
+Snehal: {'crossing': 'ENTER', 'gate': '3', 'time': '10:15:49'}
+Snehal: {'crossing': 'EXIT', 'gate': '5', 'time': '10:34:01'}
+Snehal: {'crossing': 'ENTER', 'gate': '1', 'time': '10:59:33'}
+Snehal: {'crossing': 'EXIT', 'gate': '1', 'time': '11:04:41'}
+Snehal: {'crossing': 'ENTER', 'gate': '5', 'time': '11:05:29'}
+Snehal: {'crossing': 'EXIT', 'gate': '5', 'time': '11:06:49'}
+Snehal: {'crossing': 'ENTER', 'gate': '5', 'time': '11:09:21'}
+Snehal: {'crossing': 'EXIT', 'gate': '5', 'time': '11:09:52'}
+Thakkar Divyakumar Rameshbhai: {'crossing': 'ENTER', 'gate': '5', 'time': '10:11:47'}
+Thakkar Divyakumar Rameshbhai: {'crossing': 'EXIT', 'gate': '1', 'time': '10:20:57'}
+Thakkar Divyakumar Rameshbhai: {'crossing': 'ENTER', 'gate': '1', 'time': '10:21:59'}
+Thakkar Divyakumar Rameshbhai: {'crossing': 'EXIT', 'gate': '3', 'time': '10:36:20'}
+Thakkar Divyakumar Rameshbhai: {'crossing': 'ENTER', 'gate': '1', 'time': '10:46:16'}
+Aryan Chaudhary: {'crossing': 'EXIT', 'gate': '3', 'time': '10:51:36'}
+Aryan Chaudhary: {'crossing': 'ENTER', 'gate': '5', 'time': '11:02:55'}
+Aryan Chaudhary: {'crossing': 'EXIT', 'gate': '5', 'time': '11:05:49'}
+Aryan Chaudhary: {'crossing': 'ENTER', 'gate': '5', 'time': '11:07:33'}
+Aryan Chaudhary: {'crossing': 'EXIT', 'gate': '5', 'time': '11:07:58'}
+Karan Baboota: {'crossing': 'ENTER', 'gate': '5', 'time': '10:25:46'}
+Karan Baboota: {'crossing': 'EXIT', 'gate': '3', 'time': '10:34:35'}
+Karan Baboota: {'crossing': 'ENTER', 'gate': '3', 'time': '10:40:15'}
+Karan Baboota: {'crossing': 'EXIT', 'gate': '1', 'time': '10:45:35'}
+Karan Baboota: {'crossing': 'ENTER', 'gate': '3', 'time': '10:52:42'}
+Karan Baboota: {'crossing': 'EXIT', 'gate': '3', 'time': '11:07:36'}
+Karan Baboota: {'crossing': 'ENTER', 'gate': '1', 'time': '11:08:11'}
+Smiti Singhal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:18:35'}
+Smiti Singhal: {'crossing': 'EXIT', 'gate': '1', 'time': '10:32:27'}
+Smiti Singhal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:36:16'}
+Smiti Singhal: {'crossing': 'EXIT', 'gate': '3', 'time': '10:53:01'}
+Smiti Singhal: {'crossing': 'ENTER', 'gate': '3', 'time': '11:00:27'}
+Smiti Singhal: {'crossing': 'EXIT', 'gate': '1', 'time': '11:07:00'}
+Smiti Singhal: {'crossing': 'ENTER', 'gate': '3', 'time': '11:07:57'}
+Shambhavi Sharma: {'crossing': 'EXIT', 'gate': '1', 'time': '10:17:15'}
+Shambhavi Sharma: {'crossing': 'ENTER', 'gate': '1', 'time': '10:20:11'}
+Shambhavi Sharma: {'crossing': 'EXIT', 'gate': '5', 'time': '10:24:56'}
+Shambhavi Sharma: {'crossing': 'ENTER', 'gate': '5', 'time': '10:31:45'}
+Shambhavi Sharma: {'crossing': 'EXIT', 'gate': '5', 'time': '10:36:10'}
+Shambhavi Sharma: {'crossing': 'ENTER', 'gate': '1', 'time': '10:37:20'}
+Shambhavi Sharma: {'crossing': 'EXIT', 'gate': '1', 'time': '10:48:24'}
+Shambhavi Sharma: {'crossing': 'ENTER', 'gate': '1', 'time': '10:48:51'}
+Shambhavi Sharma: {'crossing': 'EXIT', 'gate': '3', 'time': '10:52:05'}
+Rishabh Oberoi: {'crossing': 'ENTER', 'gate': '1', 'time': '10:17:45'}
+Rishabh Oberoi: {'crossing': 'EXIT', 'gate': '5', 'time': '10:51:42'}
+Rishabh Oberoi: {'crossing': 'ENTER', 'gate': '3', 'time': '10:58:19'}
+Rishabh Oberoi: {'crossing': 'EXIT', 'gate': '1', 'time': '11:03:06'}
+Kartik Gupta: {'crossing': 'ENTER', 'gate': '3', 'time': '10:16:19'}
+Kartik Gupta: {'crossing': 'EXIT', 'gate': '5', 'time': '10:17:41'}
+Kartik Gupta: {'crossing': 'ENTER', 'gate': '3', 'time': '10:31:56'}
+Kartik Gupta: {'crossing': 'EXIT', 'gate': '1', 'time': '10:38:14'}
+Kartik Gupta: {'crossing': 'ENTER', 'gate': '5', 'time': '10:48:57'}
+Kartik Gupta: {'crossing': 'EXIT', 'gate': '5', 'time': '10:49:57'}
+Kartik Gupta: {'crossing': 'ENTER', 'gate': '3', 'time': '11:03:51'}
+Kartik Gupta: {'crossing': 'EXIT', 'gate': '5', 'time': '11:06:35'}
+Sushil Kumar: {'crossing': 'EXIT', 'gate': '3', 'time': '10:10:23'}
+Sushil Kumar: {'crossing': 'ENTER', 'gate': '5', 'time': '10:14:17'}
+Sushil Kumar: {'crossing': 'EXIT', 'gate': '5', 'time': '10:15:23'}
+Sushil Kumar: {'crossing': 'ENTER', 'gate': '1', 'time': '10:16:54'}
+Sushil Kumar: {'crossing': 'EXIT', 'gate': '5', 'time': '10:23:46'}
+Sushil Kumar: {'crossing': 'ENTER', 'gate': '3', 'time': '10:26:42'}
+Sushil Kumar: {'crossing': 'EXIT', 'gate': '1', 'time': '10:27:21'}
+Sushil Kumar: {'crossing': 'ENTER', 'gate': '1', 'time': '10:28:22'}
+Sushil Kumar: {'crossing': 'EXIT', 'gate': '5', 'time': '10:35:14'}
+Sushil Kumar: {'crossing': 'ENTER', 'gate': '1', 'time': '10:43:56'}
+Sushil Kumar: {'crossing': 'EXIT', 'gate': '1', 'time': '10:52:07'}
+Sushil Kumar: {'crossing': 'ENTER', 'gate': '1', 'time': '10:58:47'}
+Gayam Shivakanth Reddy: {'crossing': 'EXIT', 'gate': '5', 'time': '10:29:32'}
+Gayam Shivakanth Reddy: {'crossing': 'ENTER', 'gate': '3', 'time': '10:29:49'}
+Gayam Shivakanth Reddy: {'crossing': 'EXIT', 'gate': '1', 'time': '10:42:25'}
+Gayam Shivakanth Reddy: {'crossing': 'ENTER', 'gate': '3', 'time': '10:49:41'}
+Gayam Shivakanth Reddy: {'crossing': 'EXIT', 'gate': '1', 'time': '10:59:43'}
+Gayam Shivakanth Reddy: {'crossing': 'ENTER', 'gate': '5', 'time': '11:08:28'}
+Manas: {'crossing': 'ENTER', 'gate': '3', 'time': '10:11:29'}
+Manas: {'crossing': 'EXIT', 'gate': '5', 'time': '10:12:29'}
+Manas: {'crossing': 'ENTER', 'gate': '5', 'time': '10:25:08'}
+Manas: {'crossing': 'EXIT', 'gate': '5', 'time': '10:34:05'}
+Manas: {'crossing': 'ENTER', 'gate': '5', 'time': '10:51:42'}
+Manas: {'crossing': 'EXIT', 'gate': '5', 'time': '10:53:46'}
+Manas: {'crossing': 'ENTER', 'gate': '3', 'time': '10:57:58'}
+Manas: {'crossing': 'EXIT', 'gate': '1', 'time': '11:03:12'}
+Aditya Raj Singh: {'crossing': 'ENTER', 'gate': '1', 'time': '10:22:21'}
+Aditya Raj Singh: {'crossing': 'EXIT', 'gate': '1', 'time': '10:25:24'}
+Aditya Raj Singh: {'crossing': 'ENTER', 'gate': '5', 'time': '10:32:03'}
+Aditya Raj Singh: {'crossing': 'EXIT', 'gate': '1', 'time': '10:43:16'}
+Aditya Raj Singh: {'crossing': 'ENTER', 'gate': '3', 'time': '10:54:45'}
+Aditya Raj Singh: {'crossing': 'EXIT', 'gate': '1', 'time': '10:57:39'}
+Swaib Ilias Mazumder: {'crossing': 'EXIT', 'gate': '5', 'time': '10:12:00'}
+Swaib Ilias Mazumder: {'crossing': 'ENTER', 'gate': '1', 'time': '10:19:25'}
+Swaib Ilias Mazumder: {'crossing': 'EXIT', 'gate': '1', 'time': '10:20:41'}
+Swaib Ilias Mazumder: {'crossing': 'ENTER', 'gate': '1', 'time': '10:21:54'}
+Swaib Ilias Mazumder: {'crossing': 'EXIT', 'gate': '1', 'time': '10:26:06'}
+Swaib Ilias Mazumder: {'crossing': 'ENTER', 'gate': '3', 'time': '10:32:26'}
+Swaib Ilias Mazumder: {'crossing': 'EXIT', 'gate': '5', 'time': '10:40:17'}
+Swaib Ilias Mazumder: {'crossing': 'ENTER', 'gate': '1', 'time': '10:43:43'}
+Swaib Ilias Mazumder: {'crossing': 'EXIT', 'gate': '1', 'time': '11:03:09'}
+Swaib Ilias Mazumder: {'crossing': 'ENTER', 'gate': '1', 'time': '11:05:16'}
+Vamshi Krishna Vannekala: {'crossing': 'ENTER', 'gate': '5', 'time': '10:11:21'}
+Vamshi Krishna Vannekala: {'crossing': 'EXIT', 'gate': '1', 'time': '10:12:10'}
+Vamshi Krishna Vannekala: {'crossing': 'ENTER', 'gate': '5', 'time': '10:13:23'}
+Vamshi Krishna Vannekala: {'crossing': 'EXIT', 'gate': '3', 'time': '10:21:02'}
+Vamshi Krishna Vannekala: {'crossing': 'ENTER', 'gate': '3', 'time': '10:35:59'}
+Vamshi Krishna Vannekala: {'crossing': 'EXIT', 'gate': '1', 'time': '10:41:00'}
+Vamshi Krishna Vannekala: {'crossing': 'ENTER', 'gate': '5', 'time': '10:45:05'}
+Anuj Yadav: {'crossing': 'ENTER', 'gate': '3', 'time': '10:15:17'}
+Anuj Yadav: {'crossing': 'EXIT', 'gate': '5', 'time': '10:16:15'}
+Anuj Yadav: {'crossing': 'ENTER', 'gate': '5', 'time': '10:21:32'}
+Anuj Yadav: {'crossing': 'EXIT', 'gate': '1', 'time': '10:35:38'}
+Anuj Yadav: {'crossing': 'ENTER', 'gate': '3', 'time': '10:45:59'}
+Anuj Yadav: {'crossing': 'EXIT', 'gate': '3', 'time': '11:10:23'}
+Shraman Jain: {'crossing': 'ENTER', 'gate': '1', 'time': '10:14:13'}
+Shraman Jain: {'crossing': 'EXIT', 'gate': '5', 'time': '10:33:29'}
+Shraman Jain: {'crossing': 'ENTER', 'gate': '5', 'time': '10:46:13'}
+Shraman Jain: {'crossing': 'EXIT', 'gate': '5', 'time': '10:46:20'}
+Shraman Jain: {'crossing': 'ENTER', 'gate': '5', 'time': '10:47:56'}
+Shraman Jain: {'crossing': 'EXIT', 'gate': '3', 'time': '11:03:35'}
+Shraman Jain: {'crossing': 'ENTER', 'gate': '3', 'time': '11:06:48'}
+Vibhor Agarwal: {'crossing': 'EXIT', 'gate': '3', 'time': '10:21:01'}
+Vibhor Agarwal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:35:04'}
+Vibhor Agarwal: {'crossing': 'EXIT', 'gate': '5', 'time': '10:42:32'}
+Vibhor Agarwal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:49:42'}
+Vibhor Agarwal: {'crossing': 'EXIT', 'gate': '1', 'time': '10:51:17'}
+Vibhor Agarwal: {'crossing': 'ENTER', 'gate': '1', 'time': '10:51:48'}
+Vibhor Agarwal: {'crossing': 'EXIT', 'gate': '3', 'time': '10:57:09'}
+Vibhor Agarwal: {'crossing': 'ENTER', 'gate': '3', 'time': '10:57:58'}
+Vibhor Agarwal: {'crossing': 'EXIT', 'gate': '3', 'time': '11:01:03'}
+Vibhor Agarwal: {'crossing': 'ENTER', 'gate': '5', 'time': '11:03:43'}
+Surbhi Goyal: {'crossing': 'EXIT', 'gate': '1', 'time': '10:19:37'}
+Surbhi Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:34:02'}
+Surbhi Goyal: {'crossing': 'EXIT', 'gate': '3', 'time': '10:34:48'}
+Surbhi Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:47:27'}
+Surbhi Goyal: {'crossing': 'EXIT', 'gate': '5', 'time': '10:50:37'}
+Surbhi Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:55:54'}
+Surbhi Goyal: {'crossing': 'EXIT', 'gate': '5', 'time': '10:57:13'}
+Surbhi Goyal: {'crossing': 'ENTER', 'gate': '5', 'time': '10:58:36'}
+Surbhi Goyal: {'crossing': 'EXIT', 'gate': '1', 'time': '11:00:04'}
+Surbhi Goyal: {'crossing': 'ENTER', 'gate': '1', 'time': '11:04:46'}
+Surbhi Goyal: {'crossing': 'EXIT', 'gate': '5', 'time': '11:07:58'}
+Shashank Dargar: {'crossing': 'EXIT', 'gate': '3', 'time': '10:12:51'}
+Shashank Dargar: {'crossing': 'ENTER', 'gate': '5', 'time': '10:14:28'}
+Shashank Dargar: {'crossing': 'EXIT', 'gate': '3', 'time': '10:14:37'}
+Shashank Dargar: {'crossing': 'ENTER', 'gate': '3', 'time': '10:26:37'}
+Shashank Dargar: {'crossing': 'EXIT', 'gate': '1', 'time': '10:47:11'}
+Shashank Dargar: {'crossing': 'ENTER', 'gate': '5', 'time': '10:51:08'}
+Shashank Dargar: {'crossing': 'EXIT', 'gate': '1', 'time': '11:00:38'}
+Param Shah: {'crossing': 'EXIT', 'gate': '1', 'time': '10:16:48'}
+Param Shah: {'crossing': 'ENTER', 'gate': '5', 'time': '10:19:33'}
+Param Shah: {'crossing': 'EXIT', 'gate': '5', 'time': '10:20:12'}
+Param Shah: {'crossing': 'ENTER', 'gate': '5', 'time': '10:22:02'}
+Param Shah: {'crossing': 'EXIT', 'gate': '1', 'time': '10:32:54'}
+Param Shah: {'crossing': 'ENTER', 'gate': '5', 'time': '10:36:30'}
+Param Shah: {'crossing': 'EXIT', 'gate': '5', 'time': '11:02:40'}
+Swatantra kumar nigam: {'crossing': 'EXIT', 'gate': '3', 'time': '10:28:01'}
+Swatantra kumar nigam: {'crossing': 'ENTER', 'gate': '3', 'time': '10:32:11'}
+Swatantra kumar nigam: {'crossing': 'EXIT', 'gate': '5', 'time': '10:37:28'}
+Swatantra kumar nigam: {'crossing': 'ENTER', 'gate': '5', 'time': '10:43:52'}
+Swatantra kumar nigam: {'crossing': 'EXIT', 'gate': '1', 'time': '10:50:44'}
+Swatantra kumar nigam: {'crossing': 'ENTER', 'gate': '3', 'time': '11:07:18'}
+Ujjwal Garg: {'crossing': 'EXIT', 'gate': '5', 'time': '10:20:32'}
+Ujjwal Garg: {'crossing': 'ENTER', 'gate': '1', 'time': '10:40:56'}
+Ujjwal Garg: {'crossing': 'EXIT', 'gate': '3', 'time': '10:49:58'}
+Ujjwal Garg: {'crossing': 'ENTER', 'gate': '1', 'time': '10:50:28'}
+Ujjwal Garg: {'crossing': 'EXIT', 'gate': '3', 'time': '10:52:09'}
+Ujjwal Garg: {'crossing': 'ENTER', 'gate': '1', 'time': '10:53:06'}
+Ujjwal Garg: {'crossing': 'EXIT', 'gate': '1', 'time': '11:09:49'}
+Swati Jha: {'crossing': 'EXIT', 'gate': '5', 'time': '10:21:11'}
+Swati Jha: {'crossing': 'ENTER', 'gate': '1', 'time': '10:29:17'}
+Swati Jha: {'crossing': 'EXIT', 'gate': '1', 'time': '10:38:14'}
+Swati Jha: {'crossing': 'ENTER', 'gate': '1', 'time': '10:39:22'}
+Swati Jha: {'crossing': 'EXIT', 'gate': '3', 'time': '10:42:27'}
+Swati Jha: {'crossing': 'ENTER', 'gate': '3', 'time': '10:42:59'}
+Swati Jha: {'crossing': 'EXIT', 'gate': '5', 'time': '10:49:31'}
+Swati Jha: {'crossing': 'ENTER', 'gate': '5', 'time': '11:03:01'}
+Ayush Srivastava: {'crossing': 'ENTER', 'gate': '1', 'time': '10:14:02'}
+Ayush Srivastava: {'crossing': 'EXIT', 'gate': '5', 'time': '10:29:31'}
+Ayush Srivastava: {'crossing': 'ENTER', 'gate': '3', 'time': '10:36:22'}
+Ayush Srivastava: {'crossing': 'EXIT', 'gate': '1', 'time': '10:39:10'}
+Ayush Srivastava: {'crossing': 'ENTER', 'gate': '5', 'time': '10:39:14'}
+Ayush Srivastava: {'crossing': 'EXIT', 'gate': '1', 'time': '10:44:04'}
+Ayush Srivastava: {'crossing': 'ENTER', 'gate': '1', 'time': '10:45:27'}
+Ayush Srivastava: {'crossing': 'EXIT', 'gate': '5', 'time': '10:53:37'}
+Ayush Srivastava: {'crossing': 'ENTER', 'gate': '3', 'time': '10:58:57'}
+Ayush Srivastava: {'crossing': 'EXIT', 'gate': '3', 'time': '11:04:58'}
+Ayush Srivastava: {'crossing': 'ENTER', 'gate': '3', 'time': '11:07:38'}
+Ayush Srivastava: {'crossing': 'EXIT', 'gate': '5', 'time': '11:07:56'}
+Mohammed Kaif: {'crossing': 'EXIT', 'gate': '1', 'time': '10:12:09'}
+Mohammed Kaif: {'crossing': 'ENTER', 'gate': '3', 'time': '10:12:30'}
+Mohammed Kaif: {'crossing': 'EXIT', 'gate': '5', 'time': '10:20:13'}
+Mohammed Kaif: {'crossing': 'ENTER', 'gate': '3', 'time': '10:28:50'}
+Mohammed Kaif: {'crossing': 'EXIT', 'gate': '1', 'time': '10:48:26'}
+Mohammed Kaif: {'crossing': 'ENTER', 'gate': '5', 'time': '10:54:02'}
+Mohammed Kaif: {'crossing': 'EXIT', 'gate': '1', 'time': '11:05:05'}
+Mohammed Kaif: {'crossing': 'ENTER', 'gate': '1', 'time': '11:09:33'}
+Yuvraj Singh: {'crossing': 'EXIT', 'gate': '1', 'time': '10:20:38'}
+Yuvraj Singh: {'crossing': 'ENTER', 'gate': '1', 'time': '10:30:09'}
+Yuvraj Singh: {'crossing': 'EXIT', 'gate': '3', 'time': '10:36:06'}
+Yuvraj Singh: {'crossing': 'ENTER', 'gate': '3', 'time': '10:37:09'}
+Yuvraj Singh: {'crossing': 'EXIT', 'gate': '1', 'time': '11:03:54'}
+Rishika Jain: {'crossing': 'EXIT', 'gate': '3', 'time': '10:18:45'}
+Rishika Jain: {'crossing': 'ENTER', 'gate': '3', 'time': '10:22:26'}
+Rishika Jain: {'crossing': 'EXIT', 'gate': '1', 'time': '10:40:59'}
+Rishika Jain: {'crossing': 'ENTER', 'gate': '3', 'time': '10:47:27'}
+Rishika Jain: {'crossing': 'EXIT', 'gate': '1', 'time': '10:51:15'}
+Rishika Jain: {'crossing': 'ENTER', 'gate': '3', 'time': '11:04:40'}
+Sumit Kumar: {'crossing': 'ENTER', 'gate': '5', 'time': '10:18:52'}
+Sumit Kumar: {'crossing': 'EXIT', 'gate': '5', 'time': '10:34:02'}
+Sumit Kumar: {'crossing': 'ENTER', 'gate': '1', 'time': '10:35:21'}
+Sumit Kumar: {'crossing': 'EXIT', 'gate': '3', 'time': '10:49:40'}
+Sumit Kumar: {'crossing': 'ENTER', 'gate': '5', 'time': '10:52:01'}
+Dhruv Mishra: {'crossing': 'EXIT', 'gate': '3', 'time': '10:29:45'}
+Dhruv Mishra: {'crossing': 'ENTER', 'gate': '5', 'time': '10:35:48'}
+Dhruv Mishra: {'crossing': 'EXIT', 'gate': '1', 'time': '10:38:57'}
+Dhruv Mishra: {'crossing': 'ENTER', 'gate': '1', 'time': '10:46:48'}
+Dhruv Mishra: {'crossing': 'EXIT', 'gate': '5', 'time': '10:46:54'}
+Dhruv Mishra: {'crossing': 'ENTER', 'gate': '5', 'time': '10:55:50'}
+Dhruv Mishra: {'crossing': 'EXIT', 'gate': '1', 'time': '11:02:25'}
+Dhruv Mishra: {'crossing': 'ENTER', 'gate': '5', 'time': '11:04:06'}
+Ankita Mahato: {'crossing': 'ENTER', 'gate': '3', 'time': '10:10:24'}
+Ankita Mahato: {'crossing': 'EXIT', 'gate': '3', 'time': '10:15:37'}
+Ankita Mahato: {'crossing': 'ENTER', 'gate': '5', 'time': '10:17:41'}
+Ankita Mahato: {'crossing': 'EXIT', 'gate': '5', 'time': '10:18:19'}
+Ankita Mahato: {'crossing': 'ENTER', 'gate': '3', 'time': '10:23:48'}
+Ankita Mahato: {'crossing': 'EXIT', 'gate': '1', 'time': '10:28:01'}
+Ankita Mahato: {'crossing': 'ENTER', 'gate': '1', 'time': '10:42:32'}
+Ankita Mahato: {'crossing': 'EXIT', 'gate': '3', 'time': '10:57:19'}
+Ankita Mahato: {'crossing': 'ENTER', 'gate': '3', 'time': '10:58:04'}
+Ankita Mahato: {'crossing': 'EXIT', 'gate': '3', 'time': '11:01:40'}
+Ankita Mahato: {'crossing': 'ENTER', 'gate': '1', 'time': '11:03:33'}
+Ankita Mahato: {'crossing': 'EXIT', 'gate': '1', 'time': '11:06:58'}
+Manav Saini: {'crossing': 'ENTER', 'gate': '1', 'time': '10:10:30'}
+Manav Saini: {'crossing': 'EXIT', 'gate': '3', 'time': '10:16:53'}
+Manav Saini: {'crossing': 'ENTER', 'gate': '3', 'time': '10:18:57'}
+Manav Saini: {'crossing': 'EXIT', 'gate': '5', 'time': '10:26:24'}
+Manav Saini: {'crossing': 'ENTER', 'gate': '1', 'time': '10:28:51'}
+Manav Saini: {'crossing': 'EXIT', 'gate': '5', 'time': '10:33:16'}
+Manav Saini: {'crossing': 'ENTER', 'gate': '3', 'time': '10:38:20'}
+Manav Saini: {'crossing': 'EXIT', 'gate': '5', 'time': '11:03:14'}

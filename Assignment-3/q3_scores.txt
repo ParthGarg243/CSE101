@@ -1,0 +1,16 @@
+q3_File1.txt
+score: 4.19
+5 most used words in decreasing order: ['dry', "won't", 'land', 'be', 'earth']
+5 random words from the file: ['moving', 'sea', 'their', 'own', 'had']
+q3_File2.txt
+score: 5.69
+5 most used words in decreasing order: ['image', 'their', 'lesser', 'whose', 'first']
+5 random words from the file: ['third', 'of', 'fruit', 'appear', 'fly']
+q3_File3.txt
+score: 4.45
+5 most used words in decreasing order: ['hath', "can't", 'have', 'sea', 'fish']
+5 random words from the file: ['good', 'rule', 'beast', 'behold', 'creeping']
+q3_File4.txt
+score: 5.83
+5 most used words in decreasing order: ['moveth', 'above', 'appear', 'said', 'unto']
+5 random words from the file: ['evening', 'behold', 'own', 'third', 'his']

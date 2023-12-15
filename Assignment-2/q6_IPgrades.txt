@@ -1,0 +1,6 @@
+[22001, 97.6625, 'A']
+[22002, 50.0, 'B-']
+Error! (marks scored > max marks)
+Error! (number of student's assessments don't match number of actual assessments)
+[22005, 60.5, 'B']
+[22006, 2.3375, 'F']

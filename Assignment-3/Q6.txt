@@ -1,0 +1,27 @@
+Advantages of using OO:
+1. The basic structure of the code remains the same even after making changes. All the functions remain inside the class and are easy to update.
+2. The OO method has a faster execution time for the grading operation.
+
+Advantages of using Dictionaries:
+1. Dictionaries are easier to implement compared to OO. We can easily see all the data by just printing the dictionary.
+2. The dictionary method has a faster execution time for the searching operation.
+
+Disadvantages of using OO:
+1. The length of the program using OO is larger as compared to dictionary.
+2. OO is not easy to learn and takes time to get used to. Dictionaries have an easier syntax as compared to OO.
+
+Disadvantages of using dictionaries:
+1. Dictionaries are unordered and the value for a given key may not follow the same structure as others.
+2. We can easily encounter key errors hence we need to handle more special cases in dictionaries as compared to OO.
+
+Performance comparison for grading operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much):
+1. N: 2500
+2. Time by OO: 0.0119 seconds (ran the program 10 times and took the average)
+3. Time by dictionary: 0.03142 seconds (ran the program 10 times and took the average)
+4. X is faster; fraction of time X took is: OO is faster; fraction of time OO took is 0.378
+
+Performance comparison for search operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much):
+1. N: 1
+2. Time by OO: 0.0026 seconds (ran the program 10 times and took the average)
+3. Time by dictionary: 0.0021 seconds (ran the program 10 times and took the average)
+4. X is faster; fraction of time X took is: Dictionary is faster; fraction of time dictionary took is 0.807
